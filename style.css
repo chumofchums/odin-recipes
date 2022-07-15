@@ -1,0 +1,8 @@
+.recipes {
+  display: flex;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  justify-content: space-around;
+  background-color: black;
+  color: aliceblue;
+}
