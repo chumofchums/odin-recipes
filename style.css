@@ -3,6 +3,29 @@
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
   justify-content: space-around;
-  background-color: black;
+  background-color:rgb(211, 229, 181);
   color: aliceblue;
+  
+}
+
+a:hover {
+  color: orange;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.recipeimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
