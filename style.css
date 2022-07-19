@@ -1,11 +1,23 @@
 .recipes {
   display: flex;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   text-align: center;
   justify-content: space-around;
   background-color:rgb(211, 229, 181);
   color: aliceblue;
   
+}
+
+.header {
+  font-size: 60px;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  font-size: 28px;
+  color: black;
 }
 
 a:hover {
@@ -21,6 +33,11 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+}
+
+.homegif {
+  width: 80em;
+  height: auto;
 }
 
 .recipeimg {
